@@ -1,0 +1,264 @@
+﻿  Source.cpp
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\pause.h(4,1): warning C4005: 'totalButton': macro redefinition
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\menu.h(4): message : see previous definition of 'totalButton'
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(55,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(55,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(66,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(66,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(72,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(72,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(79,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(79,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(105,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(105,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(106,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(106,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(188,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(188,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(190,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(190,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(213,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(213,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(420,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(469,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(469,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(514,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(514,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(762,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(762,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(825,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(829,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(873,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(873,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(973,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(973,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1073,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1073,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1139,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1139,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1148,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1148,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1220,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1220,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1226,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1226,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1231,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(1231,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pleum\source\repos\gameSfml63011013\gameSfml63011013\Source.cpp(34,25): warning C4101: 'counter3': unreferenced local variable
+  gameSfml63011013.vcxproj -> C:\Users\pleum\source\repos\gameSfml63011013\x64\Debug\gameSfml63011013.exe
